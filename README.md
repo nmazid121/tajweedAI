@@ -148,7 +148,7 @@ Each word has precise timing information:
 - **Duration (ms)**: Word pronunciation length
 
 ### Audio Sources
-All audio files are sourced from [Tarteel AI](https://tarteel.ai/) with high-quality recitations from professional Quran reciters.
+All audio files are sourced from [Tarteel AI](https://tarteel.ai/) with high-quality recitations from professional Quran reciters. Specifically the Quranic Universal Library [QUL](https://qul.tarteel.ai/)
 
 ## 🤝 Contributing
 
