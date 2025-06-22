@@ -1,0 +1,193 @@
+{
+  "surah_number": 1,
+  "surah_name": "Al-Fatiha",
+  "ayahs": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          480
+        ],
+        [
+          2,
+          600,
+          1000
+        ],
+        [
+          3,
+          1800,
+          2160
+        ],
+        [
+          4,
+          2480,
+          5160
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/001001.mp3",
+      "reciter": "Husary"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          800,
+          1240
+        ],
+        [
+          2,
+          1570,
+          1670
+        ],
+        [
+          3,
+          2530,
+          2630
+        ],
+        [
+          4,
+          2800,
+          6240
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/001002.mp3",
+      "reciter": "Husary"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          800,
+          1200
+        ],
+        [
+          2,
+          1520,
+          4480
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/001003.mp3",
+      "reciter": "Husary"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          720
+        ],
+        [
+          2,
+          920,
+          1440
+        ],
+        [
+          3,
+          1840,
+          4600
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/001004.mp3",
+      "reciter": "Husary"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          1000
+        ],
+        [
+          2,
+          1200,
+          2000
+        ],
+        [
+          3,
+          2080,
+          3160
+        ],
+        [
+          4,
+          3400,
+          6800
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/001005.mp3",
+      "reciter": "Husary"
+    },
+    "6": {
+      "segments": [
+        [
+          1,
+          0,
+          680
+        ],
+        [
+          2,
+          1000,
+          1640
+        ],
+        [
+          3,
+          2040,
+          5320
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/001006.mp3",
+      "reciter": "Husary"
+    },
+    "7": {
+      "segments": [
+        [
+          1,
+          0,
+          960
+        ],
+        [
+          2,
+          1240,
+          1640
+        ],
+        [
+          3,
+          2000,
+          2840
+        ],
+        [
+          4,
+          3320,
+          3720
+        ],
+        [
+          5,
+          4000,
+          4120
+        ],
+        [
+          6,
+          5040,
+          6000
+        ],
+        [
+          7,
+          6440,
+          6880
+        ],
+        [
+          8,
+          7170,
+          7270
+        ],
+        [
+          9,
+          7720,
+          14920
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/001007.mp3",
+      "reciter": "Husary"
+    }
+  }
+}

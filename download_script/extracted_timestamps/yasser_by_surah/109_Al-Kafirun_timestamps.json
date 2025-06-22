@@ -1,0 +1,177 @@
+{
+  "surah_number": 109,
+  "surah_name": "Al-Kafirun",
+  "ayahs": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          90
+        ],
+        [
+          2,
+          310,
+          410
+        ],
+        [
+          3,
+          400,
+          3480
+        ],
+        [
+          4,
+          3640,
+          5000
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/yasserAlDosari/109001.mp3",
+      "reciter": "Yasser Al-Dosari"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          2040,
+          2920
+        ],
+        [
+          3,
+          2970,
+          3070
+        ],
+        [
+          4,
+          3280,
+          5920
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/yasserAlDosari/109002.mp3",
+      "reciter": "Yasser Al-Dosari"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1200,
+          2560
+        ],
+        [
+          3,
+          3120,
+          3880
+        ],
+        [
+          4,
+          4210,
+          4310
+        ],
+        [
+          5,
+          5400,
+          6640
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/yasserAlDosari/109003.mp3",
+      "reciter": "Yasser Al-Dosari"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          2280,
+          2680
+        ],
+        [
+          3,
+          2840,
+          3480
+        ],
+        [
+          4,
+          3930,
+          4030
+        ],
+        [
+          5,
+          4480,
+          5160
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/yasserAlDosari/109004.mp3",
+      "reciter": "Yasser Al-Dosari"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1000,
+          2000
+        ],
+        [
+          3,
+          2520,
+          3240
+        ],
+        [
+          4,
+          3610,
+          3710
+        ],
+        [
+          5,
+          5280,
+          6520
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/yasserAlDosari/109005.mp3",
+      "reciter": "Yasser Al-Dosari"
+    },
+    "6": {
+      "segments": [
+        [
+          1,
+          0,
+          320
+        ],
+        [
+          2,
+          640,
+          1320
+        ],
+        [
+          3,
+          1640,
+          2160
+        ],
+        [
+          4,
+          2360,
+          5160
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/yasserAlDosari/109006.mp3",
+      "reciter": "Yasser Al-Dosari"
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "surah_number": 112,
+  "surah_name": "Al-Ikhlas",
+  "ayahs": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          680,
+          1000
+        ],
+        [
+          3,
+          1250,
+          1350
+        ],
+        [
+          4,
+          2240,
+          3160
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/abdulBasitMurattal/112001.mp3",
+      "reciter": "Abdul Basit"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          650,
+          750
+        ],
+        [
+          2,
+          1560,
+          2840
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/abdulBasitMurattal/112002.mp3",
+      "reciter": "Abdul Basit"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          600
+        ],
+        [
+          2,
+          720,
+          1320
+        ],
+        [
+          3,
+          1400,
+          1880
+        ],
+        [
+          4,
+          2040,
+          3440
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/abdulBasitMurattal/112003.mp3",
+      "reciter": "Abdul Basit"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          680
+        ],
+        [
+          2,
+          800,
+          1120
+        ],
+        [
+          3,
+          1690,
+          1790
+        ],
+        [
+          4,
+          2080,
+          2680
+        ],
+        [
+          5,
+          3280,
+          4240
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/abdulBasitMurattal/112004.mp3",
+      "reciter": "Abdul Basit"
+    }
+  }
+}

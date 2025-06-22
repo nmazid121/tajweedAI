@@ -1,0 +1,1280 @@
+{
+  "1": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          560
+        ],
+        [
+          2,
+          760,
+          1200
+        ],
+        [
+          3,
+          2000,
+          2360
+        ],
+        [
+          4,
+          2680,
+          6120
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/001001.mp3",
+      "reciter": "Mishary"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          360,
+          840
+        ],
+        [
+          2,
+          1210,
+          1310
+        ],
+        [
+          3,
+          2170,
+          2270
+        ],
+        [
+          4,
+          2440,
+          5640
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/001002.mp3",
+      "reciter": "Mishary"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          760,
+          1120
+        ],
+        [
+          2,
+          1440,
+          4680
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/001003.mp3",
+      "reciter": "Mishary"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          640
+        ],
+        [
+          2,
+          840,
+          1280
+        ],
+        [
+          3,
+          1640,
+          4680
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/001004.mp3",
+      "reciter": "Mishary"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          760
+        ],
+        [
+          2,
+          920,
+          1680
+        ],
+        [
+          3,
+          1720,
+          2640
+        ],
+        [
+          4,
+          2840,
+          6760
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/001005.mp3",
+      "reciter": "Mishary"
+    },
+    "6": {
+      "segments": [
+        [
+          1,
+          0,
+          600
+        ],
+        [
+          2,
+          880,
+          1520
+        ],
+        [
+          3,
+          1800,
+          5640
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/001006.mp3",
+      "reciter": "Mishary"
+    },
+    "7": {
+      "segments": [
+        [
+          1,
+          0,
+          640
+        ],
+        [
+          2,
+          880,
+          1280
+        ],
+        [
+          3,
+          1680,
+          2480
+        ],
+        [
+          4,
+          2880,
+          3280
+        ],
+        [
+          5,
+          3480,
+          3600
+        ],
+        [
+          6,
+          4360,
+          5200
+        ],
+        [
+          7,
+          5600,
+          5960
+        ],
+        [
+          8,
+          6250,
+          6350
+        ],
+        [
+          9,
+          6720,
+          13280
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/001007.mp3",
+      "reciter": "Mishary"
+    }
+  },
+  "82": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          320
+        ],
+        [
+          2,
+          600,
+          3080
+        ],
+        [
+          3,
+          3360,
+          4920
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/082001.mp3",
+      "reciter": "Mishary"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          0,
+          560
+        ],
+        [
+          2,
+          720,
+          1880
+        ],
+        [
+          3,
+          2160,
+          4680
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/082002.mp3",
+      "reciter": "Mishary"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          480
+        ],
+        [
+          2,
+          600,
+          1480
+        ],
+        [
+          3,
+          1560,
+          2720
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/082003.mp3",
+      "reciter": "Mishary"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          600
+        ],
+        [
+          2,
+          880,
+          1600
+        ],
+        [
+          3,
+          1680,
+          3400
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/082004.mp3",
+      "reciter": "Mishary"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          720
+        ],
+        [
+          2,
+          1200,
+          1400
+        ],
+        [
+          3,
+          2009,
+          2109
+        ],
+        [
+          4,
+          2600,
+          3640
+        ],
+        [
+          5,
+          3800,
+          5720
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/082005.mp3",
+      "reciter": "Mishary"
+    },
+    "6": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          40,
+          2520
+        ],
+        [
+          3,
+          2920,
+          4280
+        ],
+        [
+          4,
+          4410,
+          4510
+        ],
+        [
+          5,
+          4840,
+          5640
+        ],
+        [
+          6,
+          5800,
+          6680
+        ],
+        [
+          7,
+          6840,
+          9560
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/082006.mp3",
+      "reciter": "Mishary"
+    },
+    "7": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          880,
+          1640
+        ],
+        [
+          3,
+          1800,
+          2960
+        ],
+        [
+          4,
+          3160,
+          4680
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/082007.mp3",
+      "reciter": "Mishary"
+    },
+    "8": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1240,
+          1400
+        ],
+        [
+          3,
+          2080,
+          2920
+        ],
+        [
+          4,
+          3410,
+          3510
+        ],
+        [
+          5,
+          4040,
+          4280
+        ],
+        [
+          6,
+          5840,
+          7520
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/082008.mp3",
+      "reciter": "Mishary"
+    },
+    "9": {
+      "segments": [
+        [
+          1,
+          0,
+          440
+        ],
+        [
+          2,
+          690,
+          790
+        ],
+        [
+          3,
+          1440,
+          2280
+        ],
+        [
+          4,
+          2760,
+          5680
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/082009.mp3",
+      "reciter": "Mishary"
+    },
+    "10": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1520,
+          1920
+        ],
+        [
+          3,
+          2240,
+          5520
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/082010.mp3",
+      "reciter": "Mishary"
+    },
+    "11": {
+      "segments": [
+        [
+          1,
+          0,
+          640
+        ],
+        [
+          2,
+          1200,
+          4360
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/082011.mp3",
+      "reciter": "Mishary"
+    },
+    "12": {
+      "segments": [
+        [
+          1,
+          690,
+          790
+        ],
+        [
+          2,
+          1130,
+          1230
+        ],
+        [
+          3,
+          1520,
+          4320
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/082012.mp3",
+      "reciter": "Mishary"
+    },
+    "13": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1240,
+          2240
+        ],
+        [
+          3,
+          2400,
+          2640
+        ],
+        [
+          4,
+          3000,
+          5360
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/082013.mp3",
+      "reciter": "Mishary"
+    },
+    "14": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1400,
+          2320
+        ],
+        [
+          3,
+          2480,
+          2760
+        ],
+        [
+          4,
+          3120,
+          5680
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/082014.mp3",
+      "reciter": "Mishary"
+    },
+    "15": {
+      "segments": [
+        [
+          1,
+          0,
+          1040
+        ],
+        [
+          2,
+          1370,
+          1470
+        ],
+        [
+          3,
+          2320,
+          4640
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/082015.mp3",
+      "reciter": "Mishary"
+    },
+    "16": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          480,
+          600
+        ],
+        [
+          3,
+          1000,
+          1480
+        ],
+        [
+          4,
+          1800,
+          6720
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/082016.mp3",
+      "reciter": "Mishary"
+    },
+    "17": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1720,
+          2400
+        ],
+        [
+          3,
+          2610,
+          2710
+        ],
+        [
+          4,
+          3000,
+          3560
+        ],
+        [
+          5,
+          3920,
+          6440
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/082017.mp3",
+      "reciter": "Mishary"
+    },
+    "18": {
+      "segments": [
+        [
+          1,
+          0,
+          720
+        ],
+        [
+          2,
+          930,
+          1030
+        ],
+        [
+          3,
+          2480,
+          3160
+        ],
+        [
+          4,
+          3330,
+          3430
+        ],
+        [
+          5,
+          3720,
+          4320
+        ],
+        [
+          6,
+          4720,
+          7280
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/082018.mp3",
+      "reciter": "Mishary"
+    },
+    "19": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          610,
+          710
+        ],
+        [
+          3,
+          960,
+          1880
+        ],
+        [
+          4,
+          2360,
+          2520
+        ],
+        [
+          5,
+          2840,
+          3560
+        ],
+        [
+          6,
+          4410,
+          4510
+        ],
+        [
+          7,
+          6320,
+          7320
+        ],
+        [
+          8,
+          7480,
+          8560
+        ],
+        [
+          9,
+          9370,
+          9470
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/082019.mp3",
+      "reciter": "Mishary"
+    }
+  },
+  "109": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          90
+        ],
+        [
+          2,
+          470,
+          570
+        ],
+        [
+          3,
+          560,
+          3160
+        ],
+        [
+          4,
+          3360,
+          7560
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/109001.mp3",
+      "reciter": "Mishary"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          2360,
+          3320
+        ],
+        [
+          3,
+          3370,
+          3470
+        ],
+        [
+          4,
+          3720,
+          7480
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/109002.mp3",
+      "reciter": "Mishary"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          2120,
+          3160
+        ],
+        [
+          3,
+          3760,
+          4680
+        ],
+        [
+          4,
+          5090,
+          5190
+        ],
+        [
+          5,
+          6720,
+          8280
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/109003.mp3",
+      "reciter": "Mishary"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          2040,
+          2480
+        ],
+        [
+          3,
+          2680,
+          3440
+        ],
+        [
+          4,
+          4210,
+          4310
+        ],
+        [
+          5,
+          4880,
+          5680
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/109004.mp3",
+      "reciter": "Mishary"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1920,
+          3160
+        ],
+        [
+          3,
+          3720,
+          4640
+        ],
+        [
+          4,
+          5130,
+          5230
+        ],
+        [
+          5,
+          6880,
+          8480
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/109005.mp3",
+      "reciter": "Mishary"
+    },
+    "6": {
+      "segments": [
+        [
+          1,
+          0,
+          320
+        ],
+        [
+          2,
+          640,
+          1440
+        ],
+        [
+          3,
+          1800,
+          2400
+        ],
+        [
+          4,
+          2600,
+          6280
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/109006.mp3",
+      "reciter": "Mishary"
+    }
+  },
+  "111": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          640
+        ],
+        [
+          2,
+          840,
+          1240
+        ],
+        [
+          3,
+          3040,
+          3560
+        ],
+        [
+          4,
+          3880,
+          4440
+        ],
+        [
+          5,
+          5520,
+          7440
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/111001.mp3",
+      "reciter": "Mishary"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          2080,
+          2840
+        ],
+        [
+          3,
+          3530,
+          3630
+        ],
+        [
+          4,
+          3800,
+          4520
+        ],
+        [
+          5,
+          4810,
+          4910
+        ],
+        [
+          6,
+          5480,
+          7200
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/111002.mp3",
+      "reciter": "Mishary"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          760
+        ],
+        [
+          2,
+          1040,
+          1560
+        ],
+        [
+          3,
+          2680,
+          3400
+        ],
+        [
+          4,
+          3640,
+          5200
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/111003.mp3",
+      "reciter": "Mishary"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          1200
+        ],
+        [
+          2,
+          1480,
+          3680
+        ],
+        [
+          3,
+          4080,
+          5640
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/111004.mp3",
+      "reciter": "Mishary"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          320,
+          1160
+        ],
+        [
+          3,
+          1440,
+          2080
+        ],
+        [
+          4,
+          3170,
+          3270
+        ],
+        [
+          5,
+          4360,
+          6480
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/111005.mp3",
+      "reciter": "Mishary"
+    }
+  },
+  "112": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          360,
+          680
+        ],
+        [
+          3,
+          930,
+          1030
+        ],
+        [
+          4,
+          1880,
+          3040
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/112001.mp3",
+      "reciter": "Mishary"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          290,
+          390
+        ],
+        [
+          2,
+          1200,
+          2600
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/112002.mp3",
+      "reciter": "Mishary"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          320
+        ],
+        [
+          2,
+          440,
+          1000
+        ],
+        [
+          3,
+          1080,
+          1600
+        ],
+        [
+          4,
+          1720,
+          3040
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/112003.mp3",
+      "reciter": "Mishary"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          520
+        ],
+        [
+          2,
+          680,
+          1000
+        ],
+        [
+          3,
+          1610,
+          1710
+        ],
+        [
+          4,
+          2000,
+          2600
+        ],
+        [
+          5,
+          3200,
+          4920
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/112004.mp3",
+      "reciter": "Mishary"
+    }
+  },
+  "113": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          400,
+          1120
+        ],
+        [
+          3,
+          1190,
+          1290
+        ],
+        [
+          4,
+          2240,
+          3520
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/113001.mp3",
+      "reciter": "Mishary"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1160,
+          1840
+        ],
+        [
+          3,
+          1970,
+          2070
+        ],
+        [
+          4,
+          2330,
+          2430
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/113002.mp3",
+      "reciter": "Mishary"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1280,
+          1960
+        ],
+        [
+          3,
+          2160,
+          2880
+        ],
+        [
+          4,
+          3440,
+          3600
+        ],
+        [
+          5,
+          3800,
+          5080
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/113003.mp3",
+      "reciter": "Mishary"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1240,
+          1960
+        ],
+        [
+          3,
+          2640,
+          4160
+        ],
+        [
+          4,
+          4370,
+          4470
+        ],
+        [
+          5,
+          4640,
+          6040
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/113004.mp3",
+      "reciter": "Mishary"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1120,
+          1800
+        ],
+        [
+          3,
+          2000,
+          2800
+        ],
+        [
+          4,
+          3320,
+          3480
+        ],
+        [
+          5,
+          3680,
+          5720
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/113005.mp3",
+      "reciter": "Mishary"
+    }
+  }
+}

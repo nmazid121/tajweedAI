@@ -1,0 +1,38 @@
+{
+  "extraction_date": "2025-06-21T07:16:43.457012",
+  "total_surahs": 6,
+  "total_ayahs": 46,
+  "total_words": 198,
+  "surah_summary": {
+    "1": {
+      "name": "Al-Fatiha",
+      "ayah_count": 7,
+      "word_count": 29
+    },
+    "82": {
+      "name": "Al-Infitar",
+      "ayah_count": 19,
+      "word_count": 81
+    },
+    "109": {
+      "name": "Al-Kafirun",
+      "ayah_count": 6,
+      "word_count": 27
+    },
+    "111": {
+      "name": "Al-Lahab",
+      "ayah_count": 5,
+      "word_count": 23
+    },
+    "112": {
+      "name": "Al-Ikhlas",
+      "ayah_count": 4,
+      "word_count": 15
+    },
+    "113": {
+      "name": "Al-Falaq",
+      "ayah_count": 5,
+      "word_count": 23
+    }
+  }
+}

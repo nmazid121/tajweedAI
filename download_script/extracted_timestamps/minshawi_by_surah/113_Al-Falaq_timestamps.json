@@ -1,0 +1,151 @@
+{
+  "surah_number": 113,
+  "surah_name": "Al-Falaq",
+  "ayahs": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          640,
+          1480
+        ],
+        [
+          3,
+          1610,
+          1710
+        ],
+        [
+          4,
+          2800,
+          4120
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/113001.mp3",
+      "reciter": "Minshawi"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          960,
+          1680
+        ],
+        [
+          3,
+          1850,
+          1950
+        ],
+        [
+          4,
+          2210,
+          2310
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/113002.mp3",
+      "reciter": "Minshawi"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1120,
+          1840
+        ],
+        [
+          3,
+          2080,
+          2960
+        ],
+        [
+          4,
+          3600,
+          3800
+        ],
+        [
+          5,
+          4080,
+          5440
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/113003.mp3",
+      "reciter": "Minshawi"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1200,
+          1920
+        ],
+        [
+          3,
+          2680,
+          4400
+        ],
+        [
+          4,
+          4650,
+          4750
+        ],
+        [
+          5,
+          4960,
+          6560
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/113004.mp3",
+      "reciter": "Minshawi"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1040,
+          1760
+        ],
+        [
+          3,
+          1960,
+          2880
+        ],
+        [
+          4,
+          3520,
+          3680
+        ],
+        [
+          5,
+          3960,
+          5240
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/113005.mp3",
+      "reciter": "Minshawi"
+    }
+  }
+}

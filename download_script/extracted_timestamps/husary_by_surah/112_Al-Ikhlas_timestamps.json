@@ -1,0 +1,105 @@
+{
+  "surah_number": 112,
+  "surah_name": "Al-Ikhlas",
+  "ayahs": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1200,
+          1680
+        ],
+        [
+          3,
+          2250,
+          2350
+        ],
+        [
+          4,
+          3960,
+          5800
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/112001.mp3",
+      "reciter": "Husary"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          1050,
+          1150
+        ],
+        [
+          2,
+          2720,
+          5000
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/112002.mp3",
+      "reciter": "Husary"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          680
+        ],
+        [
+          2,
+          880,
+          1880
+        ],
+        [
+          3,
+          2080,
+          3000
+        ],
+        [
+          4,
+          3320,
+          5880
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/112003.mp3",
+      "reciter": "Husary"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          800
+        ],
+        [
+          2,
+          1040,
+          1600
+        ],
+        [
+          3,
+          2570,
+          2670
+        ],
+        [
+          4,
+          3360,
+          4360
+        ],
+        [
+          5,
+          5520,
+          8080
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/112004.mp3",
+      "reciter": "Husary"
+    }
+  }
+}

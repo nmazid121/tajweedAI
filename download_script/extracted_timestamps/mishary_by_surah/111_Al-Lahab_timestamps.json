@@ -1,0 +1,151 @@
+{
+  "surah_number": 111,
+  "surah_name": "Al-Lahab",
+  "ayahs": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          640
+        ],
+        [
+          2,
+          840,
+          1240
+        ],
+        [
+          3,
+          3040,
+          3560
+        ],
+        [
+          4,
+          3880,
+          4440
+        ],
+        [
+          5,
+          5520,
+          7440
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/111001.mp3",
+      "reciter": "Mishary"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          2080,
+          2840
+        ],
+        [
+          3,
+          3530,
+          3630
+        ],
+        [
+          4,
+          3800,
+          4520
+        ],
+        [
+          5,
+          4810,
+          4910
+        ],
+        [
+          6,
+          5480,
+          7200
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/111002.mp3",
+      "reciter": "Mishary"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          760
+        ],
+        [
+          2,
+          1040,
+          1560
+        ],
+        [
+          3,
+          2680,
+          3400
+        ],
+        [
+          4,
+          3640,
+          5200
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/111003.mp3",
+      "reciter": "Mishary"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          1200
+        ],
+        [
+          2,
+          1480,
+          3680
+        ],
+        [
+          3,
+          4080,
+          5640
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/111004.mp3",
+      "reciter": "Mishary"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          320,
+          1160
+        ],
+        [
+          3,
+          1440,
+          2080
+        ],
+        [
+          4,
+          3170,
+          3270
+        ],
+        [
+          5,
+          4360,
+          6480
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/111005.mp3",
+      "reciter": "Mishary"
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "surah_number": 109,
+  "surah_name": "Al-Kafirun",
+  "ayahs": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          90
+        ],
+        [
+          2,
+          470,
+          570
+        ],
+        [
+          3,
+          560,
+          3160
+        ],
+        [
+          4,
+          3360,
+          7560
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/109001.mp3",
+      "reciter": "Mishary"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          2360,
+          3320
+        ],
+        [
+          3,
+          3370,
+          3470
+        ],
+        [
+          4,
+          3720,
+          7480
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/109002.mp3",
+      "reciter": "Mishary"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          2120,
+          3160
+        ],
+        [
+          3,
+          3760,
+          4680
+        ],
+        [
+          4,
+          5090,
+          5190
+        ],
+        [
+          5,
+          6720,
+          8280
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/109003.mp3",
+      "reciter": "Mishary"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          2040,
+          2480
+        ],
+        [
+          3,
+          2680,
+          3440
+        ],
+        [
+          4,
+          4210,
+          4310
+        ],
+        [
+          5,
+          4880,
+          5680
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/109004.mp3",
+      "reciter": "Mishary"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1920,
+          3160
+        ],
+        [
+          3,
+          3720,
+          4640
+        ],
+        [
+          4,
+          5130,
+          5230
+        ],
+        [
+          5,
+          6880,
+          8480
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/109005.mp3",
+      "reciter": "Mishary"
+    },
+    "6": {
+      "segments": [
+        [
+          1,
+          0,
+          320
+        ],
+        [
+          2,
+          640,
+          1440
+        ],
+        [
+          3,
+          1800,
+          2400
+        ],
+        [
+          4,
+          2600,
+          6280
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/alafasy/109006.mp3",
+      "reciter": "Mishary"
+    }
+  }
+}

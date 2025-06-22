@@ -1,0 +1,151 @@
+{
+  "surah_number": 113,
+  "surah_name": "Al-Falaq",
+  "ayahs": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          200,
+          760
+        ],
+        [
+          3,
+          770,
+          870
+        ],
+        [
+          4,
+          1560,
+          2120
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/saudAlShuraim/113001.mp3",
+      "reciter": "Saud Al-Shuraim"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          440,
+          960
+        ],
+        [
+          3,
+          1050,
+          1150
+        ],
+        [
+          4,
+          1290,
+          1390
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/saudAlShuraim/113002.mp3",
+      "reciter": "Saud Al-Shuraim"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          800,
+          1280
+        ],
+        [
+          3,
+          1440,
+          2000
+        ],
+        [
+          4,
+          2430,
+          2530
+        ],
+        [
+          5,
+          2680,
+          3560
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/saudAlShuraim/113003.mp3",
+      "reciter": "Saud Al-Shuraim"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          600,
+          1160
+        ],
+        [
+          3,
+          1480,
+          2560
+        ],
+        [
+          4,
+          2690,
+          2790
+        ],
+        [
+          5,
+          2880,
+          3920
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/saudAlShuraim/113004.mp3",
+      "reciter": "Saud Al-Shuraim"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          600,
+          1080
+        ],
+        [
+          3,
+          1240,
+          1880
+        ],
+        [
+          4,
+          2240,
+          2360
+        ],
+        [
+          5,
+          2520,
+          3640
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/saudAlShuraim/113005.mp3",
+      "reciter": "Saud Al-Shuraim"
+    }
+  }
+}

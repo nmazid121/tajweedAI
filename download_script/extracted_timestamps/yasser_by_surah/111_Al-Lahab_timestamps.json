@@ -1,0 +1,151 @@
+{
+  "surah_number": 111,
+  "surah_name": "Al-Lahab",
+  "ayahs": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          480
+        ],
+        [
+          2,
+          640,
+          1000
+        ],
+        [
+          3,
+          2520,
+          3000
+        ],
+        [
+          4,
+          3280,
+          3760
+        ],
+        [
+          5,
+          4760,
+          6240
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/yasserAlDosari/111001.mp3",
+      "reciter": "Yasser Al-Dosari"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          760,
+          1440
+        ],
+        [
+          3,
+          1970,
+          2070
+        ],
+        [
+          4,
+          2200,
+          2800
+        ],
+        [
+          5,
+          2970,
+          3070
+        ],
+        [
+          6,
+          3560,
+          4520
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/yasserAlDosari/111002.mp3",
+      "reciter": "Yasser Al-Dosari"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          600
+        ],
+        [
+          2,
+          840,
+          1280
+        ],
+        [
+          3,
+          2320,
+          3000
+        ],
+        [
+          4,
+          3200,
+          3920
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/yasserAlDosari/111003.mp3",
+      "reciter": "Yasser Al-Dosari"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          1160
+        ],
+        [
+          2,
+          1440,
+          2800
+        ],
+        [
+          3,
+          3160,
+          3920
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/yasserAlDosari/111004.mp3",
+      "reciter": "Yasser Al-Dosari"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          360,
+          1200
+        ],
+        [
+          3,
+          1480,
+          2080
+        ],
+        [
+          4,
+          2610,
+          2710
+        ],
+        [
+          5,
+          3880,
+          5080
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/yasserAlDosari/111005.mp3",
+      "reciter": "Yasser Al-Dosari"
+    }
+  }
+}

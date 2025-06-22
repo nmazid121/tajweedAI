@@ -1,0 +1,193 @@
+{
+  "surah_number": 1,
+  "surah_name": "Al-Fatiha",
+  "ayahs": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          720
+        ],
+        [
+          2,
+          920,
+          1280
+        ],
+        [
+          3,
+          1920,
+          2240
+        ],
+        [
+          4,
+          2440,
+          3400
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/yasserAlDosari/001001.mp3",
+      "reciter": "Yasser Al-Dosari"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          200,
+          560
+        ],
+        [
+          2,
+          730,
+          830
+        ],
+        [
+          3,
+          1530,
+          1630
+        ],
+        [
+          4,
+          1800,
+          6160
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/yasserAlDosari/001002.mp3",
+      "reciter": "Yasser Al-Dosari"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          880,
+          1240
+        ],
+        [
+          2,
+          1520,
+          6840
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/yasserAlDosari/001003.mp3",
+      "reciter": "Yasser Al-Dosari"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          480
+        ],
+        [
+          2,
+          640,
+          1040
+        ],
+        [
+          3,
+          1320,
+          6240
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/yasserAlDosari/001004.mp3",
+      "reciter": "Yasser Al-Dosari"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          520
+        ],
+        [
+          2,
+          680,
+          1280
+        ],
+        [
+          3,
+          1320,
+          2080
+        ],
+        [
+          4,
+          2240,
+          6880
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/yasserAlDosari/001005.mp3",
+      "reciter": "Yasser Al-Dosari"
+    },
+    "6": {
+      "segments": [
+        [
+          1,
+          0,
+          560
+        ],
+        [
+          2,
+          760,
+          1320
+        ],
+        [
+          3,
+          1600,
+          2640
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/yasserAlDosari/001006.mp3",
+      "reciter": "Yasser Al-Dosari"
+    },
+    "7": {
+      "segments": [
+        [
+          1,
+          0,
+          560
+        ],
+        [
+          2,
+          760,
+          1080
+        ],
+        [
+          3,
+          1440,
+          2160
+        ],
+        [
+          4,
+          2520,
+          3000
+        ],
+        [
+          5,
+          4080,
+          4200
+        ],
+        [
+          6,
+          4920,
+          5680
+        ],
+        [
+          7,
+          6040,
+          6400
+        ],
+        [
+          8,
+          6610,
+          6710
+        ],
+        [
+          9,
+          7080,
+          14880
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/yasserAlDosari/001007.mp3",
+      "reciter": "Yasser Al-Dosari"
+    }
+  }
+}

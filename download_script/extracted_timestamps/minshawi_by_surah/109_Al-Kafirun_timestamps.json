@@ -1,0 +1,177 @@
+{
+  "surah_number": 109,
+  "surah_name": "Al-Kafirun",
+  "ayahs": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          790,
+          890
+        ],
+        [
+          3,
+          880,
+          3800
+        ],
+        [
+          4,
+          4040,
+          6440
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/109001.mp3",
+      "reciter": "Minshawi"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1960,
+          3040
+        ],
+        [
+          3,
+          3090,
+          3190
+        ],
+        [
+          4,
+          3560,
+          5760
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/109002.mp3",
+      "reciter": "Minshawi"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          2040,
+          3200
+        ],
+        [
+          3,
+          3840,
+          4960
+        ],
+        [
+          4,
+          5490,
+          5590
+        ],
+        [
+          5,
+          6880,
+          8560
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/109003.mp3",
+      "reciter": "Minshawi"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          2120,
+          2600
+        ],
+        [
+          3,
+          2840,
+          3720
+        ],
+        [
+          4,
+          4450,
+          4550
+        ],
+        [
+          5,
+          5160,
+          6120
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/109004.mp3",
+      "reciter": "Minshawi"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1800,
+          2920
+        ],
+        [
+          3,
+          3560,
+          4720
+        ],
+        [
+          4,
+          5290,
+          5390
+        ],
+        [
+          5,
+          6560,
+          8160
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/109005.mp3",
+      "reciter": "Minshawi"
+    },
+    "6": {
+      "segments": [
+        [
+          1,
+          0,
+          600
+        ],
+        [
+          2,
+          1040,
+          2000
+        ],
+        [
+          3,
+          2440,
+          3200
+        ],
+        [
+          4,
+          3440,
+          4560
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/109006.mp3",
+      "reciter": "Minshawi"
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "surah_number": 113,
+  "surah_name": "Al-Falaq",
+  "ayahs": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          240,
+          800
+        ],
+        [
+          3,
+          850,
+          950
+        ],
+        [
+          4,
+          1680,
+          2480
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/maherAlMuaiqly/113001.mp3",
+      "reciter": "Maher Al-Mu'aiqly"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          600,
+          1200
+        ],
+        [
+          3,
+          1290,
+          1390
+        ],
+        [
+          4,
+          1530,
+          1630
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/maherAlMuaiqly/113002.mp3",
+      "reciter": "Maher Al-Mu'aiqly"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          600,
+          1120
+        ],
+        [
+          3,
+          1280,
+          1880
+        ],
+        [
+          4,
+          2280,
+          2400
+        ],
+        [
+          5,
+          2560,
+          3320
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/maherAlMuaiqly/113003.mp3",
+      "reciter": "Maher Al-Mu'aiqly"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          720,
+          1280
+        ],
+        [
+          3,
+          1520,
+          2520
+        ],
+        [
+          4,
+          2690,
+          2790
+        ],
+        [
+          5,
+          2880,
+          3840
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/maherAlMuaiqly/113004.mp3",
+      "reciter": "Maher Al-Mu'aiqly"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          720,
+          1280
+        ],
+        [
+          3,
+          1440,
+          2040
+        ],
+        [
+          4,
+          2480,
+          2600
+        ],
+        [
+          5,
+          2760,
+          3760
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/maherAlMuaiqly/113005.mp3",
+      "reciter": "Maher Al-Mu'aiqly"
+    }
+  }
+}

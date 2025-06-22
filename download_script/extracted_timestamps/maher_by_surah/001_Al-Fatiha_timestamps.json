@@ -1,0 +1,193 @@
+{
+  "surah_number": 1,
+  "surah_name": "Al-Fatiha",
+  "ayahs": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          640
+        ],
+        [
+          2,
+          840,
+          1280
+        ],
+        [
+          3,
+          1960,
+          2320
+        ],
+        [
+          4,
+          2560,
+          3680
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/maherAlMuaiqly/001001.mp3",
+      "reciter": "Maher Al-Mu'aiqly"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          0,
+          280
+        ],
+        [
+          2,
+          530,
+          630
+        ],
+        [
+          3,
+          1170,
+          1270
+        ],
+        [
+          4,
+          1400,
+          3360
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/maherAlMuaiqly/001002.mp3",
+      "reciter": "Maher Al-Mu'aiqly"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          480,
+          760
+        ],
+        [
+          2,
+          960,
+          2640
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/maherAlMuaiqly/001003.mp3",
+      "reciter": "Maher Al-Mu'aiqly"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          440
+        ],
+        [
+          2,
+          600,
+          960
+        ],
+        [
+          3,
+          1240,
+          2960
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/maherAlMuaiqly/001004.mp3",
+      "reciter": "Maher Al-Mu'aiqly"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          440
+        ],
+        [
+          2,
+          600,
+          1120
+        ],
+        [
+          3,
+          1120,
+          1800
+        ],
+        [
+          4,
+          1960,
+          3760
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/maherAlMuaiqly/001005.mp3",
+      "reciter": "Maher Al-Mu'aiqly"
+    },
+    "6": {
+      "segments": [
+        [
+          1,
+          0,
+          480
+        ],
+        [
+          2,
+          680,
+          1160
+        ],
+        [
+          3,
+          1360,
+          2280
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/maherAlMuaiqly/001006.mp3",
+      "reciter": "Maher Al-Mu'aiqly"
+    },
+    "7": {
+      "segments": [
+        [
+          1,
+          0,
+          440
+        ],
+        [
+          2,
+          640,
+          920
+        ],
+        [
+          3,
+          1240,
+          1840
+        ],
+        [
+          4,
+          2120,
+          2440
+        ],
+        [
+          5,
+          2880,
+          3000
+        ],
+        [
+          6,
+          3560,
+          4160
+        ],
+        [
+          7,
+          4440,
+          4720
+        ],
+        [
+          8,
+          4930,
+          5030
+        ],
+        [
+          9,
+          5280,
+          10240
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/maherAlMuaiqly/001007.mp3",
+      "reciter": "Maher Al-Mu'aiqly"
+    }
+  }
+}

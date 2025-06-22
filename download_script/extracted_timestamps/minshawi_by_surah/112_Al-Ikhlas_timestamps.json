@@ -1,0 +1,105 @@
+{
+  "surah_number": 112,
+  "surah_name": "Al-Ikhlas",
+  "ayahs": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          90
+        ],
+        [
+          2,
+          360,
+          680
+        ],
+        [
+          3,
+          1010,
+          1110
+        ],
+        [
+          4,
+          2120,
+          3200
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/112001.mp3",
+      "reciter": "Minshawi"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          450,
+          550
+        ],
+        [
+          2,
+          1440,
+          2640
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/112002.mp3",
+      "reciter": "Minshawi"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          480
+        ],
+        [
+          2,
+          640,
+          1240
+        ],
+        [
+          3,
+          1320,
+          1920
+        ],
+        [
+          4,
+          2080,
+          3320
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/112003.mp3",
+      "reciter": "Minshawi"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          800
+        ],
+        [
+          2,
+          960,
+          1320
+        ],
+        [
+          3,
+          1970,
+          2070
+        ],
+        [
+          4,
+          2400,
+          3080
+        ],
+        [
+          5,
+          3840,
+          4680
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/112004.mp3",
+      "reciter": "Minshawi"
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "surah_number": 113,
+  "surah_name": "Al-Falaq",
+  "ayahs": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1000,
+          2160
+        ],
+        [
+          3,
+          2370,
+          2470
+        ],
+        [
+          4,
+          4280,
+          6280
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/113001.mp3",
+      "reciter": "Husary"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1240,
+          2240
+        ],
+        [
+          3,
+          2530,
+          2630
+        ],
+        [
+          4,
+          3170,
+          3270
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/113002.mp3",
+      "reciter": "Husary"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1240,
+          2160
+        ],
+        [
+          3,
+          2520,
+          3920
+        ],
+        [
+          4,
+          4920,
+          5080
+        ],
+        [
+          5,
+          5640,
+          7640
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/113003.mp3",
+      "reciter": "Husary"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1520,
+          2440
+        ],
+        [
+          3,
+          3400,
+          5920
+        ],
+        [
+          4,
+          6330,
+          6430
+        ],
+        [
+          5,
+          6760,
+          9200
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/113004.mp3",
+      "reciter": "Husary"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1480,
+          2360
+        ],
+        [
+          3,
+          2640,
+          4000
+        ],
+        [
+          4,
+          4960,
+          5160
+        ],
+        [
+          5,
+          5720,
+          7720
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/113005.mp3",
+      "reciter": "Husary"
+    }
+  }
+}

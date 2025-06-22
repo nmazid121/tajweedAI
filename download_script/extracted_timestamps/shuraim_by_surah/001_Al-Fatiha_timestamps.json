@@ -1,0 +1,193 @@
+{
+  "surah_number": 1,
+  "surah_name": "Al-Fatiha",
+  "ayahs": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          560
+        ],
+        [
+          2,
+          720,
+          1040
+        ],
+        [
+          3,
+          1600,
+          1920
+        ],
+        [
+          4,
+          2080,
+          2800
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/saudAlShuraim/001001.mp3",
+      "reciter": "Saud Al-Shuraim"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          200,
+          520
+        ],
+        [
+          2,
+          770,
+          870
+        ],
+        [
+          3,
+          1570,
+          1670
+        ],
+        [
+          4,
+          1760,
+          3520
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/saudAlShuraim/001002.mp3",
+      "reciter": "Saud Al-Shuraim"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          480,
+          760
+        ],
+        [
+          2,
+          1000,
+          3160
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/saudAlShuraim/001003.mp3",
+      "reciter": "Saud Al-Shuraim"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          520
+        ],
+        [
+          2,
+          720,
+          1120
+        ],
+        [
+          3,
+          1440,
+          2760
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/saudAlShuraim/001004.mp3",
+      "reciter": "Saud Al-Shuraim"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          720
+        ],
+        [
+          2,
+          920,
+          1640
+        ],
+        [
+          3,
+          1720,
+          2760
+        ],
+        [
+          4,
+          3000,
+          4760
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/saudAlShuraim/001005.mp3",
+      "reciter": "Saud Al-Shuraim"
+    },
+    "6": {
+      "segments": [
+        [
+          1,
+          0,
+          520
+        ],
+        [
+          2,
+          760,
+          1400
+        ],
+        [
+          3,
+          1760,
+          3560
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/saudAlShuraim/001006.mp3",
+      "reciter": "Saud Al-Shuraim"
+    },
+    "7": {
+      "segments": [
+        [
+          1,
+          0,
+          520
+        ],
+        [
+          2,
+          760,
+          1080
+        ],
+        [
+          3,
+          1440,
+          2200
+        ],
+        [
+          4,
+          2560,
+          2920
+        ],
+        [
+          5,
+          3440,
+          3560
+        ],
+        [
+          6,
+          4240,
+          5000
+        ],
+        [
+          7,
+          5320,
+          5680
+        ],
+        [
+          8,
+          5930,
+          6030
+        ],
+        [
+          9,
+          6360,
+          14000
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/saudAlShuraim/001007.mp3",
+      "reciter": "Saud Al-Shuraim"
+    }
+  }
+}

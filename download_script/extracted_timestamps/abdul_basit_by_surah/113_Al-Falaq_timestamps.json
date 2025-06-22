@@ -1,0 +1,151 @@
+{
+  "surah_number": 113,
+  "surah_name": "Al-Falaq",
+  "ayahs": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1080,
+          1840
+        ],
+        [
+          3,
+          1890,
+          1990
+        ],
+        [
+          4,
+          2960,
+          4200
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/abdulBasitMurattal/113001.mp3",
+      "reciter": "Abdul Basit"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1120,
+          1800
+        ],
+        [
+          3,
+          1970,
+          2070
+        ],
+        [
+          4,
+          2290,
+          2390
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/abdulBasitMurattal/113002.mp3",
+      "reciter": "Abdul Basit"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1480,
+          2160
+        ],
+        [
+          3,
+          2360,
+          3080
+        ],
+        [
+          4,
+          3600,
+          3760
+        ],
+        [
+          5,
+          4000,
+          5240
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/abdulBasitMurattal/113003.mp3",
+      "reciter": "Abdul Basit"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1440,
+          2160
+        ],
+        [
+          3,
+          2840,
+          4280
+        ],
+        [
+          4,
+          4490,
+          4590
+        ],
+        [
+          5,
+          4720,
+          6160
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/abdulBasitMurattal/113004.mp3",
+      "reciter": "Abdul Basit"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1480,
+          2160
+        ],
+        [
+          3,
+          2320,
+          3080
+        ],
+        [
+          4,
+          3560,
+          3720
+        ],
+        [
+          5,
+          3920,
+          5160
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/abdulBasitMurattal/113005.mp3",
+      "reciter": "Abdul Basit"
+    }
+  }
+}

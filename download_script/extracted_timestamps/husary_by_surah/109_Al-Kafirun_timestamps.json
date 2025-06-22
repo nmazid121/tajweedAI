@@ -1,0 +1,177 @@
+{
+  "surah_number": 109,
+  "surah_name": "Al-Kafirun",
+  "ayahs": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1510,
+          1610
+        ],
+        [
+          3,
+          1600,
+          4400
+        ],
+        [
+          4,
+          4880,
+          9640
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/109001.mp3",
+      "reciter": "Husary"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1920,
+          3280
+        ],
+        [
+          3,
+          3410,
+          3510
+        ],
+        [
+          4,
+          4120,
+          7560
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/109002.mp3",
+      "reciter": "Husary"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          2120,
+          3280
+        ],
+        [
+          3,
+          4080,
+          5640
+        ],
+        [
+          4,
+          6410,
+          6510
+        ],
+        [
+          5,
+          8000,
+          10600
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/109003.mp3",
+      "reciter": "Husary"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          2000,
+          2520
+        ],
+        [
+          3,
+          2840,
+          4120
+        ],
+        [
+          4,
+          5090,
+          5190
+        ],
+        [
+          5,
+          6000,
+          7240
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/109004.mp3",
+      "reciter": "Husary"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1880,
+          3080
+        ],
+        [
+          3,
+          3880,
+          5520
+        ],
+        [
+          4,
+          6410,
+          6510
+        ],
+        [
+          5,
+          8080,
+          10200
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/109005.mp3",
+      "reciter": "Husary"
+    },
+    "6": {
+      "segments": [
+        [
+          1,
+          0,
+          760
+        ],
+        [
+          2,
+          1360,
+          2640
+        ],
+        [
+          3,
+          3280,
+          4280
+        ],
+        [
+          4,
+          4600,
+          7040
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/husary/109006.mp3",
+      "reciter": "Husary"
+    }
+  }
+}

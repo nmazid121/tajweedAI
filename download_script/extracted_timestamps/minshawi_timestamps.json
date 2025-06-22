@@ -1,0 +1,1280 @@
+{
+  "1": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          840
+        ],
+        [
+          2,
+          1040,
+          1440
+        ],
+        [
+          3,
+          2200,
+          2560
+        ],
+        [
+          4,
+          2880,
+          4920
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/001001.mp3",
+      "reciter": "Minshawi"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          960,
+          1480
+        ],
+        [
+          2,
+          1890,
+          1990
+        ],
+        [
+          3,
+          2890,
+          2990
+        ],
+        [
+          4,
+          3200,
+          5560
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/001002.mp3",
+      "reciter": "Minshawi"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          1400,
+          1840
+        ],
+        [
+          2,
+          2200,
+          4320
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/001003.mp3",
+      "reciter": "Minshawi"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          1400
+        ],
+        [
+          2,
+          1600,
+          2080
+        ],
+        [
+          3,
+          2440,
+          4080
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/001004.mp3",
+      "reciter": "Minshawi"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          1640
+        ],
+        [
+          2,
+          1880,
+          2680
+        ],
+        [
+          3,
+          2720,
+          3760
+        ],
+        [
+          4,
+          4000,
+          6200
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/001005.mp3",
+      "reciter": "Minshawi"
+    },
+    "6": {
+      "segments": [
+        [
+          1,
+          0,
+          1280
+        ],
+        [
+          2,
+          1600,
+          2280
+        ],
+        [
+          3,
+          2640,
+          5000
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/001006.mp3",
+      "reciter": "Minshawi"
+    },
+    "7": {
+      "segments": [
+        [
+          1,
+          0,
+          1400
+        ],
+        [
+          2,
+          1720,
+          2120
+        ],
+        [
+          3,
+          2600,
+          3520
+        ],
+        [
+          4,
+          3960,
+          4360
+        ],
+        [
+          5,
+          4640,
+          4760
+        ],
+        [
+          6,
+          5600,
+          6520
+        ],
+        [
+          7,
+          6960,
+          7360
+        ],
+        [
+          8,
+          7690,
+          7790
+        ],
+        [
+          9,
+          8240,
+          13640
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/001007.mp3",
+      "reciter": "Minshawi"
+    }
+  },
+  "82": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          560
+        ],
+        [
+          2,
+          880,
+          3080
+        ],
+        [
+          3,
+          3400,
+          5600
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/082001.mp3",
+      "reciter": "Minshawi"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          0,
+          840
+        ],
+        [
+          2,
+          1000,
+          2400
+        ],
+        [
+          3,
+          2680,
+          4760
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/082002.mp3",
+      "reciter": "Minshawi"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          920
+        ],
+        [
+          2,
+          1160,
+          2200
+        ],
+        [
+          3,
+          2400,
+          4240
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/082003.mp3",
+      "reciter": "Minshawi"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          760
+        ],
+        [
+          2,
+          1120,
+          2040
+        ],
+        [
+          3,
+          2200,
+          4080
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/082004.mp3",
+      "reciter": "Minshawi"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          1160
+        ],
+        [
+          2,
+          1840,
+          2040
+        ],
+        [
+          3,
+          2810,
+          2910
+        ],
+        [
+          4,
+          3480,
+          4760
+        ],
+        [
+          5,
+          5000,
+          7080
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/082005.mp3",
+      "reciter": "Minshawi"
+    },
+    "6": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          40,
+          3200
+        ],
+        [
+          3,
+          3680,
+          5360
+        ],
+        [
+          4,
+          5530,
+          5630
+        ],
+        [
+          5,
+          6000,
+          7000
+        ],
+        [
+          6,
+          7240,
+          8320
+        ],
+        [
+          7,
+          8560,
+          10600
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/082006.mp3",
+      "reciter": "Minshawi"
+    },
+    "7": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1640,
+          2600
+        ],
+        [
+          3,
+          2800,
+          4200
+        ],
+        [
+          4,
+          4480,
+          6360
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/082007.mp3",
+      "reciter": "Minshawi"
+    },
+    "8": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          2080,
+          2240
+        ],
+        [
+          3,
+          3040,
+          4120
+        ],
+        [
+          4,
+          4930,
+          5030
+        ],
+        [
+          5,
+          5640,
+          5880
+        ],
+        [
+          6,
+          7800,
+          9640
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/082008.mp3",
+      "reciter": "Minshawi"
+    },
+    "9": {
+      "segments": [
+        [
+          1,
+          0,
+          840
+        ],
+        [
+          2,
+          1210,
+          1310
+        ],
+        [
+          3,
+          2200,
+          3200
+        ],
+        [
+          4,
+          3840,
+          5720
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/082009.mp3",
+      "reciter": "Minshawi"
+    },
+    "10": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          2000,
+          2480
+        ],
+        [
+          3,
+          3000,
+          5560
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/082010.mp3",
+      "reciter": "Minshawi"
+    },
+    "11": {
+      "segments": [
+        [
+          1,
+          0,
+          920
+        ],
+        [
+          2,
+          1600,
+          4000
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/082011.mp3",
+      "reciter": "Minshawi"
+    },
+    "12": {
+      "segments": [
+        [
+          1,
+          1050,
+          1150
+        ],
+        [
+          2,
+          1650,
+          1750
+        ],
+        [
+          3,
+          2120,
+          4320
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/082012.mp3",
+      "reciter": "Minshawi"
+    },
+    "13": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1840,
+          3040
+        ],
+        [
+          3,
+          3240,
+          3600
+        ],
+        [
+          4,
+          4040,
+          5680
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/082013.mp3",
+      "reciter": "Minshawi"
+    },
+    "14": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          2240,
+          3440
+        ],
+        [
+          3,
+          3680,
+          4040
+        ],
+        [
+          4,
+          4520,
+          6200
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/082014.mp3",
+      "reciter": "Minshawi"
+    },
+    "15": {
+      "segments": [
+        [
+          1,
+          0,
+          1800
+        ],
+        [
+          2,
+          2290,
+          2390
+        ],
+        [
+          3,
+          3520,
+          5080
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/082015.mp3",
+      "reciter": "Minshawi"
+    },
+    "16": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          800,
+          920
+        ],
+        [
+          3,
+          1480,
+          2160
+        ],
+        [
+          4,
+          2720,
+          6680
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/082016.mp3",
+      "reciter": "Minshawi"
+    },
+    "17": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          2880,
+          3720
+        ],
+        [
+          3,
+          3970,
+          4070
+        ],
+        [
+          4,
+          4480,
+          5200
+        ],
+        [
+          5,
+          5720,
+          7080
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/082017.mp3",
+      "reciter": "Minshawi"
+    },
+    "18": {
+      "segments": [
+        [
+          1,
+          0,
+          1720
+        ],
+        [
+          2,
+          2009,
+          2109
+        ],
+        [
+          3,
+          3960,
+          4800
+        ],
+        [
+          4,
+          5050,
+          5150
+        ],
+        [
+          5,
+          5520,
+          6240
+        ],
+        [
+          6,
+          6720,
+          8160
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/082018.mp3",
+      "reciter": "Minshawi"
+    },
+    "19": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1010,
+          1110
+        ],
+        [
+          3,
+          1480,
+          2640
+        ],
+        [
+          4,
+          3320,
+          3480
+        ],
+        [
+          5,
+          3920,
+          4840
+        ],
+        [
+          6,
+          5650,
+          5750
+        ],
+        [
+          7,
+          7560,
+          8760
+        ],
+        [
+          8,
+          9000,
+          10240
+        ],
+        [
+          9,
+          11130,
+          11230
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/082019.mp3",
+      "reciter": "Minshawi"
+    }
+  },
+  "109": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          790,
+          890
+        ],
+        [
+          3,
+          880,
+          3800
+        ],
+        [
+          4,
+          4040,
+          6440
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/109001.mp3",
+      "reciter": "Minshawi"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1960,
+          3040
+        ],
+        [
+          3,
+          3090,
+          3190
+        ],
+        [
+          4,
+          3560,
+          5760
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/109002.mp3",
+      "reciter": "Minshawi"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          2040,
+          3200
+        ],
+        [
+          3,
+          3840,
+          4960
+        ],
+        [
+          4,
+          5490,
+          5590
+        ],
+        [
+          5,
+          6880,
+          8560
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/109003.mp3",
+      "reciter": "Minshawi"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          2120,
+          2600
+        ],
+        [
+          3,
+          2840,
+          3720
+        ],
+        [
+          4,
+          4450,
+          4550
+        ],
+        [
+          5,
+          5160,
+          6120
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/109004.mp3",
+      "reciter": "Minshawi"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1800,
+          2920
+        ],
+        [
+          3,
+          3560,
+          4720
+        ],
+        [
+          4,
+          5290,
+          5390
+        ],
+        [
+          5,
+          6560,
+          8160
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/109005.mp3",
+      "reciter": "Minshawi"
+    },
+    "6": {
+      "segments": [
+        [
+          1,
+          0,
+          600
+        ],
+        [
+          2,
+          1040,
+          2000
+        ],
+        [
+          3,
+          2440,
+          3200
+        ],
+        [
+          4,
+          3440,
+          4560
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/109006.mp3",
+      "reciter": "Minshawi"
+    }
+  },
+  "111": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          840
+        ],
+        [
+          2,
+          1040,
+          1480
+        ],
+        [
+          3,
+          3240,
+          3760
+        ],
+        [
+          4,
+          4120,
+          4760
+        ],
+        [
+          5,
+          5560,
+          7320
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/111001.mp3",
+      "reciter": "Minshawi"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1720,
+          2520
+        ],
+        [
+          3,
+          3330,
+          3430
+        ],
+        [
+          4,
+          3680,
+          4560
+        ],
+        [
+          5,
+          4930,
+          5030
+        ],
+        [
+          6,
+          5720,
+          7040
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/111002.mp3",
+      "reciter": "Minshawi"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          1160
+        ],
+        [
+          2,
+          1560,
+          2160
+        ],
+        [
+          3,
+          3000,
+          3800
+        ],
+        [
+          4,
+          4120,
+          5360
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/111003.mp3",
+      "reciter": "Minshawi"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          1520
+        ],
+        [
+          2,
+          1920,
+          3720
+        ],
+        [
+          3,
+          4200,
+          5440
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/111004.mp3",
+      "reciter": "Minshawi"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          600,
+          1600
+        ],
+        [
+          3,
+          1960,
+          2720
+        ],
+        [
+          4,
+          3410,
+          3510
+        ],
+        [
+          5,
+          4360,
+          5720
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/111005.mp3",
+      "reciter": "Minshawi"
+    }
+  },
+  "112": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          90
+        ],
+        [
+          2,
+          360,
+          680
+        ],
+        [
+          3,
+          1010,
+          1110
+        ],
+        [
+          4,
+          2120,
+          3200
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/112001.mp3",
+      "reciter": "Minshawi"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          450,
+          550
+        ],
+        [
+          2,
+          1440,
+          2640
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/112002.mp3",
+      "reciter": "Minshawi"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          480
+        ],
+        [
+          2,
+          640,
+          1240
+        ],
+        [
+          3,
+          1320,
+          1920
+        ],
+        [
+          4,
+          2080,
+          3320
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/112003.mp3",
+      "reciter": "Minshawi"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          800
+        ],
+        [
+          2,
+          960,
+          1320
+        ],
+        [
+          3,
+          1970,
+          2070
+        ],
+        [
+          4,
+          2400,
+          3080
+        ],
+        [
+          5,
+          3840,
+          4680
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/112004.mp3",
+      "reciter": "Minshawi"
+    }
+  },
+  "113": {
+    "1": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          640,
+          1480
+        ],
+        [
+          3,
+          1610,
+          1710
+        ],
+        [
+          4,
+          2800,
+          4120
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/113001.mp3",
+      "reciter": "Minshawi"
+    },
+    "2": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          960,
+          1680
+        ],
+        [
+          3,
+          1850,
+          1950
+        ],
+        [
+          4,
+          2210,
+          2310
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/113002.mp3",
+      "reciter": "Minshawi"
+    },
+    "3": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1120,
+          1840
+        ],
+        [
+          3,
+          2080,
+          2960
+        ],
+        [
+          4,
+          3600,
+          3800
+        ],
+        [
+          5,
+          4080,
+          5440
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/113003.mp3",
+      "reciter": "Minshawi"
+    },
+    "4": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1200,
+          1920
+        ],
+        [
+          3,
+          2680,
+          4400
+        ],
+        [
+          4,
+          4650,
+          4750
+        ],
+        [
+          5,
+          4960,
+          6560
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/113004.mp3",
+      "reciter": "Minshawi"
+    },
+    "5": {
+      "segments": [
+        [
+          1,
+          0,
+          70
+        ],
+        [
+          2,
+          1040,
+          1760
+        ],
+        [
+          3,
+          1960,
+          2880
+        ],
+        [
+          4,
+          3520,
+          3680
+        ],
+        [
+          5,
+          3960,
+          5240
+        ]
+      ],
+      "audio_url": "https://audio-cdn.tarteel.ai/quran/minshawyMurattal/113005.mp3",
+      "reciter": "Minshawi"
+    }
+  }
+}
