@@ -1,0 +1,40 @@
+# Audio files (too large for GitHub)
+*.mp3
+*.wav
+*.m4a
+*.aac
+
+# Downloaded audio directories
+download_script/downloaded_quran_audio_direct*/
+qul_downloads/audio/
+
+# Large JSON files (keep only the scripts)
+*.json
+!download_script/extracted_timestamps/*.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp 
