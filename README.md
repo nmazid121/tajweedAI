@@ -1,4 +1,4 @@
-# Tajweed AI - AI Tajweed Assistant for the Ummah ❤️
+# Tajweed AI - AI Tajweed Assistant 
 
 A comprehensive AI-powered Tajweed (Quranic recitation rules) assistant that provides precise feedback on pronunciation, elongation (madd), and bouncing (qalqalah) rules using advanced machine learning and multiple reciter datasets.
 
