@@ -1,4 +1,4 @@
-# Tajweed AI - AI Tajweed Assistant for the Ummah ❤️
+# Tajweed AI - AI Tajweed Assistant 
 
 A comprehensive AI-powered Tajweed (Quranic recitation rules) assistant that provides precise feedback on pronunciation, elongation (madd), and bouncing (qalqalah) rules using advanced machine learning and multiple reciter datasets.
 
@@ -148,7 +148,7 @@ Each word has precise timing information:
 - **Duration (ms)**: Word pronunciation length
 
 ### Audio Sources
-All audio files are sourced from [Tarteel AI](https://tarteel.ai/) with high-quality recitations from professional Quran reciters.
+All audio files are sourced from [Tarteel AI](https://tarteel.ai/) with high-quality recitations from professional Quran reciters. Specifically the Quranic Universal Library [QUL](https://qul.tarteel.ai/)
 
 ## 🤝 Contributing
 
