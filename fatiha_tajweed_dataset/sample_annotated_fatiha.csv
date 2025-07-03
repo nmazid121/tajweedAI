@@ -1,0 +1,30 @@
+surah_number,ayah_number,word_index,word_text,start_time_ms,end_time_ms,duration_ms,tajweed_rules,notes
+1,1,1,بِسْمِ,0,480,480,Ikhfa,ن is followed by س
+1,1,2,اللَّهِ,600,1000,400,Lam_Qamariyyah,ل is followed by ل
+1,1,3,الرَّحْمَٰنِ,1800,2160,360,Lam_Shamsiyyah,ل is followed by ر
+1,1,4,الرَّحِيمِ,2480,5160,2680,Lam_Shamsiyyah,ل is followed by ر
+1,2,1,الْحَمْدُ,800,1240,440,Lam_Shamsiyyah,ل is followed by ح
+1,2,2,لِلَّهِ,1570,1670,100,Lam_Qamariyyah,ل is followed by ل
+1,2,3,رَبِّ,2530,2630,100,Qalqalah,ب has sukoon
+1,2,4,الْعَالَمِينَ,2800,6240,3440,Lam_Shamsiyyah,ل is followed by ع
+1,3,1,الرَّحْمَٰنِ,800,1200,400,Lam_Shamsiyyah,ل is followed by ر
+1,3,2,الرَّحِيمِ,1520,4480,2960,Lam_Shamsiyyah,ل is followed by ر
+1,4,1,مَالِكِ,0,720,720,Qalqalah,ك has sukoon
+1,4,2,يَوْمِ,920,1440,520,Qalqalah,م has sukoon
+1,4,3,الدِّينِ,1840,4600,2760,Lam_Shamsiyyah,ل is followed by د
+1,5,1,إِيَّاكَ,0,1000,1000,Madd,prolongation of ي
+1,5,2,نَعْبُدُ,1200,2000,800,Qalqalah,د has sukoon
+1,5,3,وَإِيَّاكَ,2080,3160,1080,Madd,prolongation of ي
+1,5,4,نَسْتَعِينُ,3400,6800,3400,Qalqalah,ن has sukoon
+1,6,1,اهْدِنَا,0,680,680,Qalqalah,د has sukoon
+1,6,2,الصِّرَاطَ,1000,1640,640,Lam_Shamsiyyah,ل is followed by ص
+1,6,3,الْمُسْتَقِيمَ,2040,5320,3280,Lam_Shamsiyyah,ل is followed by م
+1,7,1,صِرَاطَ,0,960,960,Qalqalah,ط has sukoon
+1,7,2,الَّذِينَ,1240,1640,400,Lam_Shamsiyyah,ل is followed by ذ
+1,7,3,أَنْعَمْتَ,2000,2840,840,Qalqalah,ت has sukoon
+1,7,4,عَلَيْهِمْ,3320,3720,400,Qalqalah,م has sukoon
+1,7,5,غَيْرِ,4000,4120,120,Qalqalah,ر has sukoon
+1,7,6,الْمَغْضُوبِ,5040,6000,960,Lam_Shamsiyyah,ل is followed by م
+1,7,7,عَلَيْهِمْ,6440,6880,440,Qalqalah,م has sukoon
+1,7,8,وَلَا,7170,7270,100,Qalqalah,ل has sukoon
+1,7,9,الضَّالِّينَ,7720,14920,7200,Lam_Shamsiyyah,ل is followed by ض
