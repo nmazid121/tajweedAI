@@ -18,13 +18,13 @@ def play_audio(audio_segment):
     """Custom play function that uses local temp directory"""
     with tempfile.NamedTemporaryFile(suffix='.wav', dir=TEMP_DIR, delete=False) as f:
         audio_segment.export(f.name, format='wav')
-        os.startfile(f.name)  # This works on Windows
+        os.startfile(f.name) 
 
 class QalqalahAnnotator:
     def __init__(self):
         self.window = tk.Tk()
         self.window.title("Qalqalah Annotator")
-        self.window.geometry("800x900")  # Larger window for waveform
+        self.window.geometry("800x900")
 
         # Reciter selection
         self.reciters = {
