@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hard Negative Sample Recorder</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- LAME MP3 Encoder Library -->
+    <script src="https://cdn.jsdelivr.net/npm/lamejs@1.2.1/lame.min.js"></script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .pulse-red {
+            animation: pulse-red 1.5s infinite;
+        }
+        @keyframes pulse-red {
+            0%, 100% {
+                box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.7);
+            }
+            70% {
+                box-shadow: 0 0 0 10px rgba(239, 68, 68, 0);
+            }
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-white flex items-center justify-center min-h-screen p-4">
+
+    <div class="w-full max-w-md bg-gray-800 rounded-2xl shadow-2xl p-8 space-y-6 border border-gray-700">
+        <div class="text-center">
+            <h1 class="text-3xl font-bold text-cyan-400">Hard Negative Recorder <span class="text-xs align-top bg-green-500 text-black font-bold px-2 py-1 rounded-full">v3</span></h1>
+            <p class="text-gray-400 mt-2">For TajweedAI Project</p>
+            <p class="text-lg font-semibold mt-4">Target Word: <span class="text-yellow-400">الْفَلَقِ</span> (Incorrectly)</p>
+        </div>
+
+        <!-- Main Controls -->
+        <div id="controls" class="flex flex-col items-center space-y-4">
+            <!-- Recording Buttons -->
+            <div id="record-section" class="flex items-center justify-center h-24">
+                <button id="recordButton" class="w-24 h-24 bg-red-600 rounded-full flex items-center justify-center text-white text-sm font-bold focus:outline-none transition-all duration-300 ease-in-out hover:bg-red-700">
+                    REC
+                </button>
+                <button id="stopButton" class="w-24 h-24 bg-gray-600 rounded-full flex items-center justify-center text-white text-sm font-bold focus:outline-none transition-all duration-300 ease-in-out hover:bg-gray-700 hidden">
+                    STOP
+                </button>
+            </div>
+            
+            <!-- Review Section -->
+            <div id="review-section" class="hidden w-full text-center space-y-4 pt-4">
+                 <p class="text-cyan-400 font-semibold">Review Your Sample:</p>
+                 <audio id="audioPlayer" controls class="w-full"></audio>
+                 <div class="flex justify-center space-x-4 pt-2">
+                     <button id="saveButton" class="bg-green-600 text-white px-6 py-2 rounded-lg font-semibold hover:bg-green-700 transition-colors">✅ Save Sample</button>
+                     <button id="discardButton" class="bg-red-600 text-white px-6 py-2 rounded-lg font-semibold hover:bg-red-700 transition-colors">❌ Discard</button>
+                 </div>
+            </div>
+            <div id="status" class="text-center text-gray-300 h-6">Ready to Record</div>
+        </div>
+
+        <!-- Recordings List -->
+        <div id="recordingsList" class="space-y-3 pt-4">
+            <h2 class="text-xl font-semibold border-b border-gray-600 pb-2 text-cyan-400">Saved Samples: <span id="sampleCount" class="text-yellow-400">0</span>/30</h2>
+            <!-- Recordings will be appended here -->
+        </div>
+    </div>
+
+    <script>
+        // UI Elements
+        const recordButton = document.getElementById('recordButton');
+        const stopButton = document.getElementById('stopButton');
+        const statusDiv = document.getElementById('status');
+        const recordingsList = document.getElementById('recordingsList');
+        const sampleCountSpan = document.getElementById('sampleCount');
+        const reviewSection = document.getElementById('review-section');
+        const audioPlayer = document.getElementById('audioPlayer');
+        const saveButton = document.getElementById('saveButton');
+        const discardButton = document.getElementById('discardButton');
+
+        // State variables
+        let mediaRecorder;
+        let audioChunks = [];
+        let recordingCounter = 0;
+        let timerInterval;
+        let tempAudioBlob = null;
+
+        // Check for browser support
+        if (!navigator.mediaDevices || !navigator.mediaDevices.getUserMedia) {
+            alert('Your browser does not support the MediaRecorder API. Please use a modern browser like Chrome or Firefox.');
+        }
+
+        const startRecording = async () => {
+            try {
+                const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+                
+                // UI changes for recording state
+                recordButton.classList.add('hidden');
+                stopButton.classList.remove('hidden');
+                stopButton.classList.add('bg-red-600', 'pulse-red');
+                stopButton.classList.remove('bg-gray-600');
+
+                let seconds = 0;
+                statusDiv.textContent = 'Recording... 0s';
+                timerInterval = setInterval(() => {
+                    seconds++;
+                    statusDiv.textContent = `Recording... ${seconds}s`;
+                }, 1000);
+                
+                mediaRecorder = new MediaRecorder(stream);
+                audioChunks = []; // Reset chunks
+                
+                mediaRecorder.ondataavailable = event => {
+                    audioChunks.push(event.data);
+                };
+
+                mediaRecorder.onstop = () => {
+                    tempAudioBlob = new Blob(audioChunks, { type: 'audio/webm' });
+                    audioPlayer.src = URL.createObjectURL(tempAudioBlob);
+                    
+                    stopButton.classList.add('hidden');
+                    reviewSection.classList.remove('hidden');
+                    statusDiv.textContent = 'Verify your recording';
+                    
+                    stream.getTracks().forEach(track => track.stop());
+                };
+
+                mediaRecorder.start();
+            } catch (err) {
+                console.error('Error accessing microphone:', err);
+                statusDiv.textContent = 'Error: Could not access microphone.';
+                resetUI();
+            }
+        };
+
+        const stopRecording = () => {
+            if (mediaRecorder && mediaRecorder.state === 'recording') {
+                mediaRecorder.stop();
+                clearInterval(timerInterval);
+            }
+        };
+
+        const resetUI = () => {
+            recordButton.classList.remove('hidden');
+            stopButton.classList.add('hidden');
+            reviewSection.classList.add('hidden');
+            statusDiv.textContent = 'Ready to Record';
+            tempAudioBlob = null;
+        };
+
+        const saveSample = async () => {
+            if (!tempAudioBlob) return;
+            statusDiv.textContent = 'Encoding to MP3...';
+            
+            try {
+                const audioContext = new AudioContext();
+                const arrayBuffer = await tempAudioBlob.arrayBuffer();
+                const audioBuffer = await audioContext.decodeAudioData(arrayBuffer);
+
+                const mp3encoder = new lamejs.Mp3Encoder(1, audioBuffer.sampleRate, 128); // 1 channel, 128 kbps
+                const pcmData = audioBuffer.getChannelData(0);
+                const samples = new Int16Array(pcmData.length);
+                
+                for (let i = 0; i < pcmData.length; i++) {
+                    samples[i] = pcmData[i] * 32767.5;
+                }
+
+                let mp3Data = [];
+                const sampleBlockSize = 1152;
+                for (let i = 0; i < samples.length; i += sampleBlockSize) {
+                    const sampleChunk = samples.subarray(i, i + sampleBlockSize);
+                    const mp3buf = mp3encoder.encodeBuffer(sampleChunk);
+                    if (mp3buf.length > 0) {
+                        mp3Data.push(new Uint8Array(mp3buf));
+                    }
+                }
+                const mp3buf = mp3encoder.flush();
+                if (mp3buf.length > 0) {
+                    mp3Data.push(new Uint8Array(mp3buf));
+                }
+
+                const mp3Blob = new Blob(mp3Data, { type: 'audio/mpeg' });
+                const mp3Url = URL.createObjectURL(mp3Blob);
+
+                recordingCounter++;
+                const fileName = `negative_falaq_${recordingCounter}.mp3`;
+
+                const recordingElement = document.createElement('div');
+                recordingElement.className = 'bg-gray-700 p-3 rounded-lg flex items-center justify-between animate-pulse';
+                setTimeout(() => recordingElement.classList.remove('animate-pulse'), 500);
+                
+                recordingElement.innerHTML = `
+                    <span class="font-mono text-sm text-gray-300">${fileName}</span>
+                    <a href="${mp3Url}" download="${fileName}" class="bg-cyan-500 text-white px-4 py-1 rounded-md text-sm font-semibold hover:bg-cyan-600 transition-colors">
+                        Download
+                    </a>
+                `;
+                recordingsList.appendChild(recordingElement);
+
+                sampleCountSpan.textContent = recordingCounter;
+                statusDiv.textContent = 'Saved! Ready for next recording.';
+            } catch (error) {
+                console.error("MP3 Encoding Error:", error);
+                statusDiv.textContent = 'Error: Could not encode MP3.';
+            } finally {
+                resetUI();
+            }
+        };
+
+        // Event Listeners
+        recordButton.addEventListener('click', startRecording);
+        stopButton.addEventListener('click', stopRecording);
+        saveButton.addEventListener('click', saveSample);
+        discardButton.addEventListener('click', resetUI);
+
+    </script>
+</body>
+</html>

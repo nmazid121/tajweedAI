@@ -1,0 +1,26 @@
+# Core dependencies for Qalqalah Detection Pipeline
+librosa>=0.10.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+joblib>=1.1.0
+pydub>=0.25.1
+
+# ASR and Audio Processing
+nemo_toolkit[asr]>=1.20.0
+torch>=1.12.0
+torchaudio>=0.12.0
+
+# Forced Alignment (optional but recommended)
+whisperx>=3.0.0
+
+# Alternative alignment tools
+stable-ts>=2.0.0
+
+# Audio processing utilities
+soundfile>=0.12.0
+resampy>=0.4.0
+
+# Utilities
+tqdm>=4.64.0
+matplotlib>=3.5.0
+seaborn>=0.11.0 

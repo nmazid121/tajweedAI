@@ -1,0 +1,14 @@
+Qalqalah Kubra Audio Segments for Model Training
+==================================================
+
+Total segments: 90
+Source: Extracted from last words of ayahs ending with Qaf (ق)
+Reciters: 15 different reciters
+Surahs: Al-Falaq (113:1-2) and Al-Inshiqaq (84:16-19)
+
+File naming convention:
+reciter_sXXXaYYY_qalqalah.wav
+Where XXX = surah number, YYY = ayah number
+
+These segments contain the Qalqalah Kubra sound (aq)
+from the last word of each ayah, which ends with Qaf.
