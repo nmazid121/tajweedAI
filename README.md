@@ -86,7 +86,7 @@ To tackle the challenge of having no public dataset with audio and Tajweed mista
 
 ---
 
-## 📈 Performance & Results
+## Performance & Results
 
 The three approaches yielded vastly different results, highlighting the trade-off between data quantity and quality.
 
@@ -143,7 +143,7 @@ Feedback Output (Qalqalah Detected/Not Detected)
 
 ---
 
-## 🚀 How to Reproduce
+## How to Reproduce
 
 ### Prerequisites
 - Python 3.8+
