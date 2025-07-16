@@ -2,6 +2,11 @@
 
 ### *Building with dedication to the Ummah and the preservation of Tajweed excellence.*
 
+### Short Demo Run of the Classifier on a Single Ayah
+
+[![Watch the demo on Streamable](https://cdn.streamable.com/image/btk5af.jpg)](https://streamable.com/btk5af)
+
+
 ## 💡 Introduction
 
 This project began with a simple but powerful question:
@@ -176,4 +181,4 @@ This is more than a technical challenge—it's a mission to revive the beauty an
 
 **Project by:** Nabhan Mazid and Muaz Ahmed
 
-**Contact:** [nm1088@scarletmail.rutgers.edu](mailto:nm1088@scarletmail.rutgers.edu) | **GitHub:** [nmazid121](https://github.com/nmazid121) | **LinkedIn:** [Nabhan Mazid](https://linkedin.com/in/nabhan-mazid)
+**Contact:** [nabhanmazid@gmail.com](mailto:nabhanmazid@gmail.com) | **GitHub:** [nmazid121](https://github.com/nmazid121) | **LinkedIn:** [Nabhan Mazid](https://linkedin.com/in/nabhan-mazid)

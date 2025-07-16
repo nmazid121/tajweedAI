@@ -95,9 +95,9 @@ def run_qalqalah_classifier(segment_path, model_path="falaq_word_model.pkl"):
     return prediction, proba
 
 def main():
-    # List of audio files to process (replace with your actual files)
+    # List of audio files to process 
     audio_files = [
-        "wav_audio_correct/Ayah_001.wav",
+        "all_audio_data/wav_audio_correct/Ayah_001.wav",
         # Add more files here for more trials
     ]
     for trial_idx, audio_path in enumerate(audio_files, 1):
