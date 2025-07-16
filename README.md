@@ -66,9 +66,9 @@ To tackle the challenge of having no public dataset with audio and Tajweed mista
   2. **CTC Forced Aligner:** Get exact timestamps for the target word.
   3. **PyDub:** Extract just the word segment.
   4. **Qalqalah Classifier:** Run the segment through a specialized binary classifier.
-- **Results:** **100% accuracy** on our specialized test set of 29 high-quality samples.
-- **Pros:** Realistic, end-to-end pipeline for real-world use; perfect accuracy on the specialized task; can be extended to other words.
-- **Cons:** Specialized to one word and needs further testing on a larger dataset.
+- **Results:** **100% accuracy** on the internal validation set, **57.14% accuracy** on an external test set.
+- **Pros:** Realistic, end-to-end pipeline for real-world use; demonstrates the potential of the method with perfect internal accuracy.
+- **Cons:** Specialized to one word; the gap between internal and external accuracy shows it has not yet generalized.
 
 ---
 
@@ -89,9 +89,11 @@ The three approaches yielded vastly different results, highlighting the trade-of
 |:---|:---:|:---:|:---:|:---:|:---|
 | Manual Annotation | 56 samples | 58.3% | 0.57 | 0.67 | Research / Prototyping |
 | Mass Approach | 301 samples | 83.6% | 0.70 | 0.50 | General Purpose Model |
-| **Falaq Pipeline** | **29 samples** | **100.0%** | **1.00** | **1.00** | **Real-Time Application** |
+| **Falaq Pipeline** | **29 samples** | **100% / 57.14%** | **1.00** | **1.00** | **Proof-of-Concept** |
 
-**Key Insight:** The model from the "Mass Approach" was biased toward "Not Qalqalah." The highly focused "Falaq Pipeline" demonstrates that with precise data extraction and hard negative mining, near-perfect performance is achievable for specific Tajweed rules.
+*Note: The Falaq Pipeline achieved 100% on its internal validation set but 57.14% (4/7 correct) on an external test set of real-world examples.*
+
+**Key Insight:** The model is currently biased toward "Not Qalqalah" when faced with unseen data. The 57.14% external accuracy score makes it clear that while the forced alignment *method* is highly effective for creating clean training data, the model needs a much more diverse and balanced dataset to generalize to new reciters and environments.
 
 ---
 
@@ -131,7 +133,7 @@ Feedback Output (Qalqalah Detected/Not Detected)
 ├── complete_qalqalah_pipeline.py     # End-to-end pipeline for testing
 ├── ctc_forced_aligner_test.py        # Forced aligner testing script
 ├── convert_to_mono_wav.py            # Audio preprocessing utility
-└── falaq_word_model.pkl              # Best performing model
+└── README.md                         # This file
 ```
 
 ---
@@ -154,17 +156,19 @@ Feedback Output (Qalqalah Detected/Not Detected)
 
 ## 🏁 Next Steps
 
-- **Expand Dataset:** Add more Qalqalah and non-Qalqalah examples from diverse reciters and for all Qalqalah letters (ق ط ب ج د).
+- **Expand Dataset:** This is the highest priority. Add more Qalqalah and non-Qalqalah examples from diverse reciters to address the generalization gap.
 - **Data Augmentation:** Introduce noise, pitch, and speed variations to improve model robustness.
 - **Generalize the Pipeline:** Adapt the successful "Falaq Pipeline" to other Tajweed rules like Madd, Ghunna, and Idgham.
-- **Real-Time Optimization:** Profile and optimize the pipeline for deployment on mobile devices.
+- **Automate Evaluation:** Build a larger, labeled external test set to create a more reliable benchmark for future improvements.
 - **Publish Findings:** Write a research paper on the methodology and findings, particularly around phoneme-level error detection in Quranic recitation.
 
 ---
 
 ## 🏆 Conclusion
 
-This project represents a significant step toward real-time, ML-powered Tajweed feedback. The journey from 58% accuracy with limited manual data to **100% accuracy** with a focused, end-to-end pipeline demonstrates the power of modern speech tools like forced alignment combined with thoughtful data curation.
+This project represents a significant step toward real-time, ML-powered Tajweed feedback. The journey from 58% accuracy with limited manual data to **100% accuracy on a specialized internal set** proves the effectiveness of the forced alignment and hard negative mining pipeline.
+
+However, the **57.14% accuracy on an external test set** serves as a crucial benchmark, demonstrating that while the *method* for data curation is sound, the current model has not yet generalized. This work lays a strong and promising foundation, with a clear path forward focused on dataset expansion and diversification.
 
 This is more than a technical challenge—it's a mission to revive the beauty and precision of Quranic recitation through the responsible use of AI.
 
