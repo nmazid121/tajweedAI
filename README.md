@@ -7,17 +7,17 @@
 [![Watch the demo on Streamable](https://cdn.streamable.com/image/btk5af.jpg)](https://streamable.com/btk5af)
 
 
-## 💡 Introduction
+## Introduction
 
 This project began with a simple but powerful question:
 **Why isn't there an app that gives real-time Tajweed feedback while reciting the Quran?**
 
 Inspired by Tarteel AI and the power of modern speech recognition, we set out to build a tool that listens to a user recite a verse and responds with specific, understandable Tajweed feedback—starting with the rule of Qalqalah.
 
-## 🚀 Project Overview
+## Project Overview
 This project aims to build an AI system that detects Qalqalah Kubra (major Qalqalah) in Quranic recitation. The system leverages forced alignment, audio processing, and machine learning to provide targeted feedback on the correct pronunciation of Tajweed rules, with an initial focus on the letter Qaf (ق).
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python 3.11**
 - **Libraries:**
   - `librosa`, `numpy`, `soundfile`, `pydub`, `joblib`
@@ -32,11 +32,11 @@ This project aims to build an AI system that detects Qalqalah Kubra (major Qalqa
 
 ---
 
-## 🧠 Methodology: A Three-Pronged Approach
+## Methodology: A Three-Pronged Approach
 
 To tackle the challenge of having no public dataset with audio and Tajweed mistake labels, we pursued three distinct model training strategies, each with its own trade-offs.
 
-### 1. Manual Annotation Approach 📝
+### 1. Manual Annotation Approach 
 **Location:** `manual_annotation_approach/`
 
 - **Concept:** Manually annotate the exact acoustic bursts of Qalqalah sounds (e.g., "ق", "ب", "د") using a custom GUI to create a small, high-quality dataset.
@@ -49,7 +49,7 @@ To tackle the challenge of having no public dataset with audio and Tajweed mista
 - **Pros:** Very clean, high-quality data that teaches the model the true acoustic fingerprint of Qalqalah.
 - **Cons:** Incredibly time-consuming to annotate and not scalable.
 
-### 2. Mass Approach (Automated Extraction) ⚡
+### 2. Mass Approach (Automated Extraction) 
 **Location:** `automated_mass_approach/`
 
 - **Concept:** Automatically extract hundreds of word segments from reciter audio where Qalqalah Kubra is *expected* to occur, creating a large but potentially noisy dataset.
@@ -62,7 +62,7 @@ To tackle the challenge of having no public dataset with audio and Tajweed mista
 - **Pros:** Much more data, faster to collect, and captures a wide range of reciter pronunciations.
 - **Cons:** Segments may include non-Qalqalah sounds, leading the model to learn context rather than just the target sound.
 
-### 3. Fine-Tuned Falaq Pipeline (CTC Forced Aligner) 🎯
+### 3. Fine-Tuned Falaq Pipeline (CTC Forced Aligner) 
 **Location:** `falaq_word_approach/` and `complete_qalqalah_pipeline.py`
 
 - **Concept:** Focus on a single, high-value word ("الْفَلَقِ") and use a forced aligner to precisely extract *only* the target sound, then use "hard negative mining" with our own incorrect pronunciations to train a highly specialized model.
@@ -102,7 +102,7 @@ The three approaches yielded vastly different results, highlighting the trade-of
 
 ---
 
-## 🏗️ Final Pipeline Architecture
+## Final Pipeline Architecture
 
 ```
 User Audio Input (WAV)
@@ -122,7 +122,7 @@ Feedback Output (Qalqalah Detected/Not Detected)
 
 ---
 
-## 🗂️ Project Directory
+## Project Directory
 
 ```
 ├── manual_annotation_approach/       # Manual annotation scripts & models
@@ -159,7 +159,7 @@ Feedback Output (Qalqalah Detected/Not Detected)
 
 ---
 
-## 🏁 Next Steps
+## Next Steps
 
 - **Expand Dataset:** This is the highest priority. Add more Qalqalah and non-Qalqalah examples from diverse reciters to address the generalization gap.
 - **Data Augmentation:** Introduce noise, pitch, and speed variations to improve model robustness.
@@ -169,7 +169,7 @@ Feedback Output (Qalqalah Detected/Not Detected)
 
 ---
 
-## 🏆 Conclusion
+## Conclusion
 
 This project represents a significant step toward real-time, ML-powered Tajweed feedback. The journey from 58% accuracy with limited manual data to **100% accuracy on a specialized internal set** proves the effectiveness of the forced alignment and hard negative mining pipeline.
 
